@@ -17,7 +17,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@android:drawable/btn_star_big_off" />
 
-
     <RatingBar
         android:id="@+id/ratingBar"
         android:layout_width="wrap_content"
@@ -31,7 +30,7 @@
     <SearchView
         android:id="@+id/searchView"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
+        android:layout_height="101dp"
         android:layout_marginTop="15dp"
         app:layout_constraintEnd_toEndOf="@+id/ratingBar"
         app:layout_constraintStart_toStartOf="@+id/ratingBar"
