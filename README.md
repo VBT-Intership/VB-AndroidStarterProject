@@ -5,7 +5,7 @@
 # Android getting started with kotlin
 
 - Login
-- Register
+- Registeraa
 
 `var button : Button = findViewById(R.id.veli)`
 
