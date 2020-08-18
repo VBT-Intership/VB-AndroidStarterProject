@@ -9,4 +9,4 @@
 
 `var button : Button = findViewById(R.id.veli)`
 
-![alt](https://link)
+![App screen Shot](<https://github.com/VBT-Intership/VB-AndroidStarterProject/blob/feature/login/app/github/Screen%20Shot%202020-08-18%20at%2011.39.58%20(3).png?raw=true>)
